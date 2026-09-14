@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brownfrosamurai" alt="brownfrosamurai" /></a> </p>
 
-- 🔭 I’m currently working on [Katana Ecommerce Store](https://github.com/brownfrosamurai/katana-eCommerce)
+- 🔭 I’m currently working on [Betabridge](https://github.com/brownfrosamurai/beta_bridge)
 
 - 🌱 I’m currently learning **Java, React Native**
 
