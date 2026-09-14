@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [Betabridge](https://github.com/brownfrosamurai/beta_bridge)
 
-- 🌱 I’m currently learning **Java, React Native**
-
-- 👨‍💻 All of my projects are available at [https://meduna.netlify.app/](https://meduna.netlify.app/)
+- 👨‍💻 All of my projects are available at [meduna.dev](https://www.meduna.dev/)
 
 - 💬 Ask me about **MERN, Typescript, Data Structures & Algorithms**
 
